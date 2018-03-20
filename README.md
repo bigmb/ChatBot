@@ -1,6 +1,8 @@
 # ChatBot
-ChatBot using Recurrent Neural networks and Cornell Corpus dataset (TensorFlow)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/bigmb/ChatBot/blob/master/LICENSE)
+
+ChatBot using Recurrent Neural networks and Cornell Corpus dataset (TensorFlow)
 
 Only added the python file. You can download the dataset online.
 
