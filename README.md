@@ -19,3 +19,5 @@ Library Used are :
 Numpy : 1.10.4
 
 TensorFlow : 1.4.0
+
+REST API can be used later to create better environment. 
